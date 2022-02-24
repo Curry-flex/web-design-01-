@@ -81,7 +81,7 @@ section {
 }
 
 .image {
-  background-image: url(/images/staff.jpg);
+  background-image: url(../images/staff.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
